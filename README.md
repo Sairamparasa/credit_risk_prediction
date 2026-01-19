@@ -12,7 +12,6 @@ Financial institutions need to assess the creditworthiness of loan applicants to
 - Implemented proper data preprocessing and feature engineering
 - Created a production-ready ML pipeline with model persistence
 
-## 🚀 What I Built
 
 ### 1. **Data Analysis & Exploration**
 - Performed comprehensive EDA on German credit dataset (1000+ records)
