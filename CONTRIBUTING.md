@@ -8,14 +8,14 @@ Thank you for your interest in contributing to this project! Here are some guide
 - Use the GitHub issue tracker to report bugs
 - Include detailed information about the problem
 - Provide steps to reproduce the issue
-- Include your environment details (Python version, OS, etc.)
+- Include your environment details (Python version, OS, etc. )
 
 ### Suggesting Enhancements
 - Use the GitHub issue tracker to suggest new features
 - Clearly describe the enhancement and its benefits
 - Provide examples of how it would be used
 
-### Code Contributions
+### Code Contributions  
 
 1. **Fork the repository**
 2. **Create a feature branch**
