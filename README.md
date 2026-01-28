@@ -38,11 +38,11 @@ Financial institutions need to assess the creditworthiness of loan applicants to
 - Created reproducible environment with requirements management
 - Documented complete setup and usage instructions
 
-## 📊 Dataset Information
+## 📊 Dataset Information    
 
-**Source**: German Credit Data
-**Size**: 1000+ credit applications
-**Target**: Binary classification (Good/Bad credit risk)
+**Source**:  German Credit Data
+**Size**:  1000+ credit applications
+**Target**:  Binary classification (Good/Bad credit risk)
 
 ### Input Features:
 | Feature | Type | Description | Range/Values |
