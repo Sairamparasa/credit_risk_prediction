@@ -65,6 +65,7 @@ Financial institutions need to assess the creditworthiness of loan applicants to
 - **Model Persistence**: joblib
 - **Development**: Jupyter Notebooks
 
+
 ## 📁 Project Structure
 ```
 credit_risk_project/
