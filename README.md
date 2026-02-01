@@ -1,5 +1,6 @@
 # Credit Risk Scoring Project 🏦
 
+
 An end-to-end machine learning solution that predicts credit risk for loan applicants using German credit data. This project demonstrates the complete ML pipeline from data exploration to model deployment with an interactive web application.
 
 ## 🎯 Project Overview
