@@ -57,6 +57,7 @@ Financial institutions need to assess the creditworthiness of loan applicants to
 | Credit amount | Numerical | Requested loan amount | Variable |
 | Duration | Numerical | Loan duration | 1-30 months |
 
+
 ## 🛠️ Technical Stack
 
 - **Machine Learning**: scikit-learn, Random Forest Classifier
