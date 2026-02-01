@@ -16,7 +16,7 @@ Financial institutions need to assess the creditworthiness of loan applicants to
 
 ### 1. **Data Analysis & Exploration**
 - Performed comprehensive EDA on German credit dataset (1000+ records)
-- Analyzed feature distributions and correlations
+- Analyzed feature distributions and correlations 
 - Identified key risk factors and patterns in credit defaults
 - Handled missing values and data quality issues
 
