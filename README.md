@@ -12,7 +12,7 @@ Financial institutions need to assess the creditworthiness of loan applicants to
 - Built a Random Forest classifier with high accuracy for credit risk prediction
 - Developed an interactive web application for real-time risk assessment
 - Implemented proper data preprocessing and feature engineering
-- Created a production-ready ML pipeline with model persistence
+- Created a production-ready ML pipeline with model persistence 
 
 
 ### 1. **Data Analysis & Exploration**
