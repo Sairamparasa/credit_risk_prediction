@@ -7,6 +7,7 @@ An end-to-end machine learning solution that predicts credit risk for loan appli
 
 Financial institutions need to assess the creditworthiness of loan applicants to minimize default risk.This project builds a predictive model that classifies applicants as "good" or "bad" credit risks based on their personal and financial information.
 
+
 **Key Achievements:**
 - Built a Random Forest classifier with high accuracy for credit risk prediction
 - Developed an interactive web application for real-time risk assessment
