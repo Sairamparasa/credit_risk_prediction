@@ -150,6 +150,7 @@ credit_risk_project/
 - [ ] Create API endpoints for integration
 - [ ] Add batch prediction capabilities
 - [ ] Implement model retraining pipeline
+      
 
 ## 🤝 Contributing
 
