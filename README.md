@@ -3,7 +3,7 @@
 
 An end-to-end machine learning solution that predicts credit risk for loan applicants using German credit data. This project demonstrates the complete ML pipeline from data exploration to model deployment with an interactive web application.
 
-## 🎯 Project Overview
+## 🎯 Project Overview   
 
 Financial institutions need to assess the creditworthiness of loan applicants to minimize default risk.This project builds a predictive model that classifies applicants as "good" or "bad"  credit risks based on their personal and financial information.
  
